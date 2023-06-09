@@ -1,6 +1,5 @@
-<h1 align="center">📊 Excel Interactive Dashboard 📊</h1>
+<h1 align="center">📊 Cookies Comparision Dashboard in Excel 📊</h1>
 <p align="center">
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> 
 </p>
 
 👩‍💻 [**Dashboard Link**](https://1drv.ms/x/s!AmnXTChaxVWhfl3_WnzmhuZFVco?e=xKun57)
