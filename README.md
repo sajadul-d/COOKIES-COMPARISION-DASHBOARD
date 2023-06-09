@@ -2,13 +2,9 @@
 <p align="center">
 </p>
 
-👩‍💻 [**Dashboard Link**](https://1drv.ms/x/s!AmnXTChaxVWhfl3_WnzmhuZFVco?e=xKun57)
-
 Created dynamic and interactive Excel dashboard. The dashboard showcase the most important information and various KPI that can be formed using the cookie company data. The major excel tool used is pivot table and pivot charts.
 
 ![Dashboard](/images/dashboard.PNG)
-
-[Download the excel file](https://github.com/balirampansare/Excel-Interactive-Dashboard/blob/main/Excel%20Interactive%20Dashboard.xlsx)
 
 1. **Data Sheet**
 
